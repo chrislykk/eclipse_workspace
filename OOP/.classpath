@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Classes"/>
+	<classpathentry kind="src" path="Multiple Classes"/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="AbstractClasses"/>
+	<classpathentry kind="src" path="Interface Classes"/>
+	<classpathentry kind="src" path="Clonable"/>
+	<classpathentry kind="src" path="MultiInterfaceClasses"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
